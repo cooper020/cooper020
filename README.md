@@ -10,8 +10,6 @@ Estudante do 3º ano de Engenharia Informática na Universidade do Minho
 ![Cooper020's GitHub stats](https://github-readme-stats.vercel.app/api?username=cooper020&show_icons=true&theme=tokyonight)
 
 ### Linguagens com as quais já trabalhei
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cooper020&langs_count=8)
-
 
 <div style="display: inline_block">
     <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
