@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Cooper020 (Henrique Pereira) 👋
 
-Estudante do 3º ano de Engenharia Informática na Universidade do Minho
+Licenciado em Engenharia Informática na Universidade do Minho
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henrique20_pereira/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-pereira-1938a5260/)
