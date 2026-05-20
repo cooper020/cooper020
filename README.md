@@ -1,6 +1,7 @@
 ### Hi there! I'm Cooper020 (Henrique Pereira) 👋
 
-Software Engineering graduate at University of Minho.
+I'm a Software Engineering graduate from the University of Minho, currently pursuing a Master's degree. 
+Feel free to explore my repositories and reach out if you'd like to collaborate!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henrique20_pereira/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-pereira-1938a5260/)
