@@ -9,12 +9,6 @@ Software Engineering graduate at University of Minho.
 
 ---
 
-### 📊 GitHub Stats
-
-![Cooper020's GitHub stats](https://github-readme-stats.vercel.app/api?username=cooper020&show_icons=true&theme=tokyonight)
-
----
-
 ### 🛠️ Languages & Technologies
 
 <div style="display: inline_block">
